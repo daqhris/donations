@@ -1,5 +1,5 @@
 # Bitcoin Donations  
-This month of December 2021, I sent end-of-year donations in BTC to open-source projects and organizations that are essential to managing [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [WALK≡DAY](https://awalkaday.art).  
+This month of December 2021, I sent end-of-year donations in BTC to open source projects and organizations that are very essential in regular management tasks for [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [WALK≡DAY](https://awalkaday.art).  
 
 ## Table of records  
 
