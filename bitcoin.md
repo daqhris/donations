@@ -1,5 +1,5 @@
 # Bitcoin Donations — 2021 
-This month of December 2021, I sent end-of-year donations in BTC to **free and open source projects and organizations** that are very essential in management tasks for [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [WALK≡DAY](https://awalkaday.art).  
+This month of December 2021, I sent end-of-year donations in BTC to **free and open source projects/organizations** which are essential in management tasks for [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [WALK≡DAY](https://awalkaday.art).  
 
 The total value of all transactions equals to **1.38582 mBTC**.  
 
@@ -15,4 +15,3 @@ Project or Organization | Transaction Hash | Amount (mBTC)
 [F-Droid](https://github.com/f-droid/fdroidclient) | [`dff743f0337a32d28663cff1a5789a138c2ad20debd30ba935e58362acbf7a17`](https://live.blockcypher.com/btc/tx/dff743f0337a32d28663cff1a5789a138c2ad20debd30ba935e58362acbf7a17/) | 0.115 
 [Mozilla](https://github.com/mozilla) | [`ee95527a18235b179428a772bd0ac6c0505200e0c6d00de582f98b1a7dbe29d8`](https://blockchair.com/bitcoin/transaction/ee95527a18235b179428a772bd0ac6c0505200e0c6d00de582f98b1a7dbe29d8) | 0.115 
 [OBS Project](https://github.com/obsproject) | [`e97156211e5060c41672498a3ad689d7dab0c0c3a01c7cde4d9777f28a3c373b`](https://btc.com/btc/transaction/e97156211e5060c41672498a3ad689d7dab0c0c3a01c7cde4d9777f28a3c373b) | 0.239  
- 
