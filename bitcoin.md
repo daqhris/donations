@@ -1,5 +1,5 @@
 # Bitcoin Donations — 2021 
-This month of December 2021, I sent end-of-year donations in BTC to **free and open source projects/organizations** which are essential in management tasks for [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [WALK≡DAY](https://awalkaday.art).  
+This month of December 2021, I sent end-of-year donations in BTC to **free and open source projects/organizations** which are essential in management tasks for [daqhris.eth](https://daqhris.com/crypto-growth-fund/) and [awalkaday.art](https://awalkaday.art).  
 
 The total value of all transactions equals to **1.38582 mBTC**.  
 
